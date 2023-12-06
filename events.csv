@@ -1,0 +1,44 @@
+﻿Date,Month,Week,Timestamp,Category,Location,Description,Duration,DailyProduction,WireSpeed,MachineSpeedAvg,MachineSpeedMax,MachineSpeedMin,MachineSpeedDailyRange,LowSteamDuration,DaysWithoutSB
+2022-03-08,2022-03,2022-11,2022-03-08 21:24:00,Process,Dryer,Sheet torn before entering dryer,3.75,1749.30896,193,179.9246978,195.1000061,149.6999969,45.40000916,2.616666667,11
+2022-03-09,2022-03,2022-14,2022-03-30 14:32:00,Process,Dryer,Tension inlet dryer hunting during cleaning dryer and pH indiction high,3.5,1818.055054,192,179.52309,192.1000061,149.8000031,42.30000305,1.7,3
+2022-03-10,2022-04,2022-18,2022-04-27 16:27:00,Process,Presses,Sheet torn before entering dryer,3,1748.712036,180,170.3261768,183.1000061,149.8999939,33.20001221,1.683333333,3
+2022-03-11,2022-05,2022-19,2022-05-07 15:33:00,Process,Dryer,"Sheet torn in dryer, due to sheet break detector alarm",15.11666667,884.2949829,180,103.886001,180.1000061,0,180.1000061,14.09166667,4
+2022-03-12,2022-05,2022-20,2022-05-10 16:17:00,Process,Dryer,SB,9.133333333,970.1469727,175,163.5670691,180.1000061,149.6999969,30.40000916,7.633333333,1
+2022-03-13,2022-05,2022-20,2022-05-11 17:07:00,Process,Dryer,"Sheet torn in dryer (suspect Sheet moving BS position), due to sheet break detector alarm",6.733333333,1007.148987,175,142.6064174,170.1000061,0,170.1000061,6.266666667,0
+2022-03-14,2022-05,2022-20,2022-05-12 23:01:00,Process,Dryer,"Sheet torn in dryer (suspect Sheet moving BS position), due to sheet break detector alarm",5.8,1315.321045,176,149.2213319,180.1000061,0,180.1000061,6.4,0
+2022-03-15,2022-05,2022-20,2022-05-13 07:36:00,Process,Dryer,"Sheet torn in dryer (suspect Sheet moving BS position), due to sheet break detector alarm",3.883333333,749.348999,155,125.3264557,158.1000061,0,158.1000061,10.6,0
+2022-03-16,2022-05,2022-21,2022-05-16 02:04:00,Process,Dryer,"Sheet torn in dryer (suspect Sheet moving BS position), due to sheet break detector alarm",3.883333333,1764.64502,182,154.9765993,182.1000061,0,182.1000061,3.808333333,1
+2022-03-17,2022-05,2022-21,2022-05-16 23:18:00,Process,Dryer,"Sheet torn in dryer (sheet Cut Off at deck 20 ), due to sheet break detector alarm",5.816666667,1012.395996,180,149.7664208,180.1000061,0,180.1000061,8.308333333,0
+2022-03-18,2022-07,2022-31,2022-07-25 21:53:00,Process,Presses,Sheet torn before entering dryer,8.116666667,1237.927002,155,131.4028642,155.1999969,0,155.1999969,7.591666667,5
+2022-03-19,2022-08,2022-35,2022-08-22 21:50:00,Process,Presses,Nozzle trim plug up,2.45,1863.680054,150,164.2621895,185.1000061,149.8000031,35.30000305,1.833333333,1
+2022-03-20,2022-09,2022-37,2022-09-08 08:45:00,Process,Presses,Sheet break due to tail BS jumping,7.708333333,1780.776001,193,175.477803,193,150.1000061,42.8999939,1.65,1
+2022-03-21,2022-09,2022-40,2022-10-01 03:39:00,Process,Dryer,SB,5.333333333,1306.77002,195,179.382795,195,149.8999939,45.1000061,3.833333333,8
+2022-03-22,2022-10,2022-44,2022-10-28 19:16:00,Process,Dryer,SB,7.583333333,1060.328979,175,159.1447968,175.1000061,149.8999939,25.20001221,6.083333333,3
+2022-03-23,2022-11,2022-46,2022-11-07 11:12:00,Process,Dryer,"Too much water at Nipco, chemical shower opened 100% by amazon team for scan pro",3.733333333,1588.052979,200,185.6714461,200.1000061,155,45.1000061,2.666666667,1
+2022-03-24,2022-12,2022-50,2022-12-05 02:53:00,Process,Presses,"Tail FS jumping to 2nd press due to filter trims plug up, bad quality process water (RPE)",3.133333333,1677.631958,200,193.8462267,200.1000061,149.8999939,50.20001221,2.25,13
+2022-03-25,2022-12,2022-50,2022-12-08 19:52:00,Process,Dryer,Sheet to moist and crushing at 3rd press,4.05,1722.411987,150,182.3807589,197,150.3999939,46.6000061,2.766666667,3
+2022-03-26,2023-01,2023-05,2023-01-29 18:15:00,Process,Dryer,Tail suck vacuum PU roll due to deckle inside roll tail to wide,3.2,1806.636963,197,181.8419073,196.8999939,150.8999939,46,1.416666667,1
+2022-03-27,2023-03,2023-10,2023-03-06 22:16:00,Process,Presses,Tail suck vacuum PU roll due deckle inside roll due tail to wide .,2.5,867.0319824,180,115.5186466,150,0,150,11.04166667,0
+2022-03-28,2023-03,2023-13,2023-03-30 08:18:00,Process,Presses,Tail suck vacuum PU roll due deckle inside roll due tail to wide .,2.3,1890.19397,184,173.4576879,183.6000061,151,32.6000061,1.45,0
+2022-03-29,2023-04,2023-14,2023-04-02 08:45:00,Process,Dryer,Sheet sucked by reverse spin of circ fan which is low current and sheet falldown at inlet dryer,2.7,1875.979004,197,184.5562803,197.1000061,150.1000061,47,1.833333333,2
+2022-03-30,2023-04,2023-14,2023-04-04 23:06:00,Process,Dryer,"15 circ fan have rubber coupling  cut off at top side BS and FS,  sheet sucked by reverse spin and sheet not floating between blow box",2.8,1753.713989,198,188.0348012,198,150.3999939,47.6000061,1.366666667,1
+2022-03-31,2023-04,2023-14,2023-04-07 17:18:00,Process,Dryer,Sheet sucked by reverse spin of circ fan which is low current and sheet falldown at inlet dryer,4.7,1666.618042,195,181.5992951,195,152.1000061,42.8999939,4.333333333,2
+2022-04-01,2023-04,2023-15,2023-04-11 10:11:00,Process,Presses,Tail jumping to 2nd press and sheet torn at FS,2.1,1775.870972,180,166.3417316,189.8999939,150,39.8999939,1.2,3
+2022-04-02,2023-04,2023-16,2023-04-20 01:47:00,Process,Presses,Sheet break tail jumping ke 2nd press,2.9,799,196,103.2548949,196.8999939,0,196.8999939,11.925,0
+2022-04-03,2023-04,2023-18,2023-04-30 11:29:00,Process,Dryer,Heating coil dirty,5.9,1696.984985,195,179.6184427,195,154.8999939,40.1000061,4.766666667,10
+2022-04-04,2023-05,2023-18,2023-05-05 15:58:00,Process,Dryer,"3 circ fan have rubber coupling  cut off at top side BS and FS,  sheet sucked by reverse spin and sheet not floating between blow box. XP product",3.17,1867.064941,196,181.0402998,195.6999969,156.8999939,38.80000305,2.4,4
+2022-04-05,2023-05,2023-19,2023-05-10 10:02:00,Process,Dryer,At camera we look sheet like hole at sheet stuck while scanner run to FS,3.9,1813.667969,194,174.7906499,197,0,197,3.216666667,1
+2022-04-06,2023-06,2023-22,2023-06-03 18:02:00,Process,Dryer,"2 circ fan have rubber coupling  cut off at top side BS and FS,  sheet sucked by reverse spin and sheet not floating between blow box. XP product",5.3,1628.462036,200,185.6040499,200,150.3000031,49.69999695,4.033333333,16
+2022-04-07,2023-06,2023-23,2023-06-05 03:11:00,Process,Dryer,"The sheet formation is not good, it can be seen on the camera, there are still thick ones and when the sheet is passed, it gets stuck in the scanner",9.1,2066.679932,198,189.5020488,198,0,198,2.458333333,0
+2022-04-08,2023-06,2023-23,2023-06-05 23:24:00,Process,Dryer,After check kita finding formation sheet not good and check at wet end finding top lips HB moving to BS around 45cm and sheet profile at wire not even,3.17,1169.615967,195,147.2272771,195.1000061,0,195.1000061,7.275,0
+2022-04-09,2023-06,2023-25,2023-06-21 17:35:00,Process,Dryer,"1. 5 pcs of circ fan stop and at top position there is 2 circ fan
+2. When speed 190 mpm untuk set point HV 854PC1535 masih -0.48 Bar, (decrease due to TWF vibrate when start up). to -0.53 bar [XP Product]",3.88,1579.495972,189,169.6747721,188.6999969,154.8999939,33.80000305,2.783333333,2
+2022-04-10,2023-07,2023-30,2023-07-25 09:40:00,Process,Dryer,"Transisi KP to XP ,
+1. Temp stock low 62oC, silo temp 63oC
+2. When XP, 170 humidity naik ke 187 [current exhaust dari 77% ke 82%]
+3. Circ fan 3pcs off top side [854K053, 854K077 dan 854K311], reverse rotation
+ ",3.7,1692.790039,195,182.5643803,195.1000061,155,40.1000061,2.45,6
+2022-04-11,2023-08,2023-33,2023-08-14 13:48:00,Process,Dryer,"1.Found at dryer cigaret paper at deck 1,2,3,4 top side
+2. Air bag palm guide at 3rd bott felt damage then felt little move to BS.
+3. CV steam header stuck in 50% and dcs open 80%",5.4,1571.104004,200,182.8111034,199.8999939,155.1000061,44.79998779,3.266666667,9
+2022-04-12,2023-08,2023-34,2023-08-24 12:29:00,Process,Dryer,,3.466666667,1598.677002,150,159.4320607,195.1000061,150.3999939,44.70001221,1.966666667,9
