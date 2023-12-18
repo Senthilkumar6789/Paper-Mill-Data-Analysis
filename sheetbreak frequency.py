@@ -1,3 +1,5 @@
+# Converting datetime from 1min to 15mins frequency
+
 import pandas as pd
 
 file_path = r"E:\Datasets\PD_May_22_2022-06-01.csv"
